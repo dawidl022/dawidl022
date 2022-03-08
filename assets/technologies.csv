@@ -1,0 +1,21 @@
+name,website,icon
+HTML,https://developer.mozilla.org/en-US/docs/Web/HTML,https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
+CSS,https://developer.mozilla.org/en-US/docs/Web/CSS,https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
+SCSS,https://sass-lang.com/,assets/sass.svg
+JavaScript,https://developer.mozilla.org/en-US/docs/Web/JavaScript,https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+Ruby,https://www.ruby-lang.org/,https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg
+Ruby on Rails,https://rubyonrails.org/,https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg
+RSpec,https://rspec.info/,https://github.com/rspec/rspec.github.io/raw/source/logo.svg
+Heroku,https://www.heroku.com/,https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg
+Vue.js,https://vuejs.org/,https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg
+Jekyll,https://jekyllrb.com/,assets/jekyll.svg
+MySQL,https://www.mysql.com/,https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg
+Python,https://www.python.org/,https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+Kivy,https://kivy.org/,assets/kivy.png
+Java,https://docs.oracle.com/en/java/,https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg
+C,https://man7.org/linux/man-pages/dir_section_3.html,https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg
+Linux,https://www.kernel.org/,https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg
+Bash,https://www.gnu.org/software/bash/,assets/bash.svg
+Git,https://git-scm.com/,https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg
+Github,https://github.com/dawidl022,https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg
+VSCode,https://code.visualstudio.com/,https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg
