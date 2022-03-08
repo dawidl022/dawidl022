@@ -9,7 +9,7 @@
 - 🌱 Learning Full-Stack Web Development with [The Odin Project](https://www.theodinproject.com/) Ruby on Rails path
 - ⚡ Authoring [JetBrains Academy](https://hyperskill.org/projects/136) Python projects to help others learn to code
 
-### My interests:
+### My interests include:
 
 - Full-Stack Web Development
 - Software Engineering
