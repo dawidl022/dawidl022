@@ -4,6 +4,25 @@
 
 - 📫 Want to work and create some cool stuff? Drop me an email at: [dawidk.lachowicz@gmail.com](mailto:dawidk.lachowicz@gmail.com)
 
+### Current projects/work:
+- 🔭 Front-end developer at [MaturaIT](https://www.maturait.pl/) (Vue.js)
+- 🌱 Learning Full-Stack Web Development with [The Odin Project](https://www.theodinproject.com/) Ruby on Rails path
+- ⚡ Authoring [JetBrains Academy](https://hyperskill.org/projects/136) Python projects to help others learn to code
+
+### My interests:
+
+- Full-Stack Web Development
+- Software Engineering
+- Test-driven Development
+- Algorithms and problem solving
+- Blockchain
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/dawid-k-lachowicz/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Dawid Lachowicz on LinkedIn" target="_blank" rel="noopener" width="36" height="36">
+</a>
+
 ### Languages and Technologies:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
@@ -54,6 +73,9 @@
 <a href="https://www.kernel.org/" target="_blank" rel="noopener">
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener">
+  <img src="assets/bash.svg" alt="Bash" width="36" height="36" style="margin:4px;">
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px;">
 </a>
@@ -69,8 +91,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
