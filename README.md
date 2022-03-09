@@ -2,7 +2,7 @@
 
 ## Web Developer and Computer Science Student
 
-- 📫 Want to work and create some cool stuff? Drop me an email at: [dawidk.lachowicz@gmail.com](mailto:dawidk.lachowicz@gmail.com)
+- 📫 Want to work and create some cool stuff together? Drop me an email at: [dawidk.lachowicz@gmail.com](mailto:dawidk.lachowicz@gmail.com)
 
 ### Current projects/work:
 - 🔭 Front-end developer at [MaturaIT](https://www.maturait.pl/) (Vue.js)
