@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dawid
 
-## Web Developer and Computer Science Student
+## Full-Stack Developer and Computer Science Student
 
 - 📫 Want to work and create some cool stuff together? Drop me an email at: [dawidk.lachowicz@gmail.com](mailto:dawidk.lachowicz@gmail.com)
 
