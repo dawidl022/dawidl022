@@ -6,6 +6,7 @@ HTML_TEMPLATE = """<a href="{link}" target="_blank" rel="noopener">
   <img src="{icon}" alt="{name}" width="{size}" height="{size}" style="margin:4px;">
 </a>"""
 
+
 def generate_icon_link(icon: dict[str, str], size: int):
     return HTML_TEMPLATE.format(
         link=icon["website"],
@@ -15,10 +16,7 @@ def generate_icon_link(icon: dict[str, str], size: int):
     )
 
 
-
 def generate_icons_html(csv_file_name: str, icon_size: int):
-    links = []
-
     with open(csv_file_name) as csv_file:
         reader = DictReader(csv_file)
 
