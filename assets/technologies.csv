@@ -14,9 +14,10 @@ Jekyll,https://jekyllrb.com/,assets/jekyll.svg
 MySQL,https://www.mysql.com/,https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg
 PostgreSQL,https://www.postgresql.org/,https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg
 GraphQL,https://graphql.org/,https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg
-Go,https://go.dev/,https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg
+Go,https://go.dev/,https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg
 Dart,https://dart.dev/,assets/dart.svg
 Flutter,https://flutter.dev/,https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg
+Kotlin,https://kotlinlang.org/,https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg
 Python,https://www.python.org/,https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 Kivy,https://kivy.org/,assets/kivy.png
 Java,https://docs.oracle.com/en/java/,https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg

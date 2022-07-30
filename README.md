@@ -81,6 +81,9 @@
 <a href="https://flutter.dev/" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36" style="margin:4px;">
+</a>
 <a href="https://www.python.org/" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" style="margin:4px;">
 </a>
