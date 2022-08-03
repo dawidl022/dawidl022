@@ -17,7 +17,7 @@
 - Software Engineering
 - Test-driven Development
 - Algorithms and problem solving
-- Blockchain
+- DevOps
 
 ### Connect with me:
 
