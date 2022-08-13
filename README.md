@@ -108,6 +108,9 @@
 <a href="https://www.docker.com/" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noopener">
+  <img src="assets/kubernetes.svg" alt="Kubernetes" width="36" height="36" style="margin:4px;">
+</a>
 <a href="https://git-scm.com/" target="_blank" rel="noopener">
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" width="36" height="36" style="margin:4px;">
 </a>
