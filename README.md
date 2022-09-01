@@ -6,7 +6,7 @@
 
 ### Current projects/work:
 
-- 🚀 Full-stack developer at [Atos](https://atos.net/) (Go, GraphQL, React, Flutter)
+- 🚀 Full-stack developer at [Atos](https://atos.net/) (Go, Kotlin, GraphQL, React, Flutter)
 - 🔭 Front-end developer (part-time) at [MaturaIT](https://www.maturait.pl/) (Vue.js)
 - 🌱 Learning Full-Stack Web Development with [The Odin Project](https://www.theodinproject.com/) Ruby on Rails path
 - ⚡ Authoring [JetBrains Academy](https://hyperskill.org/projects/136) Python projects to help others learn to code
