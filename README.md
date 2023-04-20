@@ -26,7 +26,6 @@
 </a>
 
 ### Languages and Technologies:
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="36" height="36" style="margin:4px;">
 </a>
@@ -141,17 +140,3 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">
   <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VSCode" width="36" height="36" style="margin:4px;">
 </a>
-
-<!--
-**dawidl022/dawidl022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
