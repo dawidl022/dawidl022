@@ -72,6 +72,9 @@
 <a href="https://graphql.org/" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://www.openapis.org/" target="_blank" rel="noopener">
+  <img src="assets/openapi.svg" alt="OpenAPI" width="36" height="36" style="margin:4px;">
+</a>
 <a href="https://go.dev/" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="36" height="36" style="margin:4px;">
 </a>
@@ -90,6 +93,9 @@
 <a href="https://www.python.org/" target="_blank" rel="noopener">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" style="margin:4px;">
 </a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/p" target="_blank" rel="noopener">
+  <img src="assets/flask.svg" alt="Flask" width="36" height="36" style="margin:4px;">
+</a>
 <a href="https://kivy.org/" target="_blank" rel="noopener">
   <img src="assets/kivy.png" alt="Kivy" width="36" height="36" style="margin:4px;">
 </a>
@@ -101,6 +107,18 @@
 </a>
 <a href="https://man7.org/linux/man-pages/dir_section_3.html" target="_blank" rel="noopener">
   <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="C" width="36" height="36" style="margin:4px;">
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36" style="margin:4px;">
+</a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noopener">
+  <img src="assets/dotnet.svg" alt=".NET" width="36" height="36" style="margin:4px;">
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noopener">
+  <img src="assets/blazor.png" alt="Blazor" width="36" height="36" style="margin:4px;">
+</a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noopener">
+  <img src="assets/rust.svg" alt="Rust" width="36" height="36" style="margin:4px;">
 </a>
 <a href="https://www.kernel.org/" target="_blank" rel="noopener">
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36" style="margin:4px;">
